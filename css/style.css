@@ -15,11 +15,28 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 200px 0;
+    padding: 200px 0; 
 }
 
 /*  built banner */
 
 .built{
     background-color: #c8cecf;
+}
+.contact{
+    background-color: #1B222C;
+}
+
+footer{
+    background-color: #3f454d;
+
+}
+
+footer a {
+    text-decoration: none;
+}
+footer li{
+    color: #ffffff7a;
+    list-style: none;
+    padding: 10PX 0;
 }
